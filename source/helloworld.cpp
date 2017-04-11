@@ -1,14 +1,15 @@
 #include <iostream>
 using namespace std;
 
-void printSomething(){
+int printSomething(int a){
 	cout << "Text on the Screen" <<endl;
+	return (a * 2);
 }
 
 
 int main()
 {
-  printSomething();
+  printSomething(10);
   cout << "Hello, World!" << std::endl;
   return 0;
 }

@@ -1,6 +1,0 @@
-/home/unix/GitRepo/programmiersprachen-helloworld/build/CMakeFiles/edit_cache.dir
-/home/unix/GitRepo/programmiersprachen-helloworld/build/CMakeFiles/rebuild_cache.dir
-/home/unix/GitRepo/programmiersprachen-helloworld/build/source/CMakeFiles/edit_cache.dir
-/home/unix/GitRepo/programmiersprachen-helloworld/build/source/CMakeFiles/rebuild_cache.dir
-/home/unix/GitRepo/programmiersprachen-helloworld/build/source/CMakeFiles/tests.dir
-/home/unix/GitRepo/programmiersprachen-helloworld/build/source/CMakeFiles/helloworld.dir
