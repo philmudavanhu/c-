@@ -1,0 +1,6 @@
+/home/unix/GitRepo/c-/build/CMakeFiles/edit_cache.dir
+/home/unix/GitRepo/c-/build/CMakeFiles/rebuild_cache.dir
+/home/unix/GitRepo/c-/build/source/CMakeFiles/edit_cache.dir
+/home/unix/GitRepo/c-/build/source/CMakeFiles/rebuild_cache.dir
+/home/unix/GitRepo/c-/build/source/CMakeFiles/tests.dir
+/home/unix/GitRepo/c-/build/source/CMakeFiles/helloworld.dir
