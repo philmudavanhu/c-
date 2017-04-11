@@ -1,7 +1,14 @@
 #include <iostream>
+using namespace std;
+
+void printSomething(){
+	cout << "Text on the Screen" <<endl;
+}
+
 
 int main()
 {
-  std::cout << "Hello, World!" << std::endl;
+  printSomething();
+  cout << "Hello, World!" << std::endl;
   return 0;
 }
